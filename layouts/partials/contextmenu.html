@@ -1,0 +1,104 @@
+<div class="box mb-0 context-container" id="context">
+    <div class="container">
+        <nav class="navbar" role="navigation" aria-label="main navigation">
+            <div class="navbar-brand">
+                <a class="navbar-item" href="{{ "" | absURL }}">
+                    <img src="{{ absURL "img/qgishr.png" }}" alt="Logo" class="header-logo" />
+                </a>
+                <a
+                    role="button"
+                    class="navbar-burger"
+                    data-target="navbarMenu"
+                    aria-label="menu"
+                    aria-expanded="false"
+                >
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                    <span aria-hidden="true"></span>
+                </a>
+            </div>
+            <div class="navbar-end is-align-items-center is-justify-content-space-between">
+                <div class="navbar-item">
+                    <div id="search-control" class="control has-icons-right search-control is-hidden-desktop">
+                        <form action="{{ "search/" | absURL }}" method="GET">
+                            <input
+                                class="input is-small"
+                                type="search"
+                                id="search-query"
+                                name="q"
+                                placeholder="Pretraži"
+                            />
+                            <span class="icon is-right">
+                                <i class="fa-solid fa-magnifying-glass"></i>
+                            </span>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div id="navbarMenu" class="navbar-menu">
+                <div class="navbar-start">
+                    {{- range site.Menus.main }}
+                        {{ if .HasChildren }}
+                            <div class="navbar-item has-dropdown is-hoverable">
+                                <a class="navbar-link is-size-7">{{ .Name }}</a>
+                                <div class="navbar-dropdown{{ if eq .Name "Vanjske poveznice" }} mega-dropdown{{ end }}">
+                                    {{ range sort .Children "Weight" }}
+                                        {{ $isExternal := strings.HasPrefix .URL "http" }}
+                                        {{ if .HasChildren }}
+                                            <div class="mega-dropdown-group">
+                                                <p class="navbar-item mega-dropdown-heading">{{ .Name }}</p>
+                                                {{ range sort .Children "Weight" }}
+                                                    {{ $childIsExternal := strings.HasPrefix .URL "http" }}
+                                                    <a
+                                                        class="navbar-item is-size-7"
+                                                        href="{{ .URL | absURL }}"
+                                                        {{ if $childIsExternal }}target="_blank" rel="noopener noreferrer"{{ end }}
+                                                    >
+                                                        {{ .Name }}
+                                                    </a>
+                                                {{ end }}
+                                            </div>
+                                        {{ else }}
+                                            <a
+                                                class="navbar-item is-size-7"
+                                                href="{{ .URL | absURL }}"
+                                                {{ if $isExternal }}target="_blank" rel="noopener noreferrer"{{ end }}
+                                            >
+                                                {{ .Pre }}{{ .Name }}
+                                            </a>
+                                        {{ end }}
+                                    {{ end }}
+                                </div>
+                            </div>
+                        {{ else }}
+                            <a
+                                href="{{ .URL | absURL }}"
+                                class="navbar-item has-text-weight-semibold is-size-7"
+                            >
+                                {{ .Name }}
+                            </a>
+                        {{ end }}
+                    {{- end }}
+                </div>
+                <div class="navbar-end is-hidden-mobile is-hidden-tablet-only">
+                    <div class="navbar-item">
+                        <div id="search-control" class="control has-icons-right search-control">
+                            <form action="{{ "search/" | absURL }}" method="GET">
+                                <input
+                                    class="input is-small"
+                                    type="search"
+                                    id="search-query"
+                                    name="q"
+                                    placeholder="Pretraži"
+                                />
+                                <span class="icon is-right">
+                                    <i class="fa-solid fa-magnifying-glass"></i>
+                                </span>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div>
