@@ -1,3 +1,3 @@
-baseURL = 'https://usergroup.qgis.org/'
+baseURL = 'https://hr.qgis.org/'
 publishDir = "public_prod"
 minify = true
