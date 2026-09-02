@@ -4,7 +4,7 @@ title: "Blog"
 subtitle: "Savjeti, resursi i članci za korisnike QGIS-a"
 draft: true
 heroSize: "is-medium"
-HeroImage: "img/hegobg1.webp"
+HeroImage: "img/osijek-bg.png"
 HasBanner: true
 sidebar: true
 ---
