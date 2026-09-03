@@ -5,7 +5,7 @@ subtitle: "Povezujemo korisnike QGIS-a u Hrvatskoj i šire"
 draft: false
 heroSize: "is-medium"
 heroLogo: "img/qgishr.png"
-HeroImage: "img/osijek-bg.png"
+HeroImage: "img/osijek-bg.webp"
 HasBanner: true
 sidebar: true
 ButtonText: "Pridruži nam se!" 
