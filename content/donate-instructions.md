@@ -25,9 +25,10 @@ Hvala što želiš podržati Hrvatsku QGIS korisničku grupu! Donacije koristimo
 
 {{< rich-box-start icon="💁" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
+
 ##### Imaš pitanja o donaciji?
 
-Kontaktiraj nas na [viperminiq@gmail.com](viperminiq@gmail.com) prije uplate ako imaš dodatna pitanja.
+Kontaktiraj nas na [info+donacija@qgis.hr](mailto:info+donacija@qgis.hr?subject=Upit%20za%20donaciju) prije uplate ako imaš dodatna pitanja.
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

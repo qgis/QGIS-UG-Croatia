@@ -18,6 +18,7 @@ Mi smo QGIS korisnička grupa, posvećena promicanju geoprostorne tehnologije ot
 ## Naša misija
 
 Naša misija je:
+
 - Poticati suradnju među korisnicima QGIS-a
 - Promicati razmjenu znanja i najbolje prakse
 - Podržavati rast GIS-a otvorenog koda
@@ -27,13 +28,14 @@ Naša misija je:
 
 ### Predsjedništvo
 
-- **Predsjednik:** Dominik Cindrić, [viperminiq@gmail.com](viperminiq@gmail.com)
-- **Zamjenik predsjednika:** Vedran Stojnović, [phidrho@gmail.com](phidrho@gmail.com)
-- **Tajnik:** Dario Tot, [totdario@gmail.com](totdario@gmail.com)
+- **Predsjednik:** Dominik Cindrić
+- **Zamjenik predsjednika:** Vedran Stojnović
+- **Tajnik:** Dario Tot
 
 ### Aktivni članovi
 
 Naši članovi dolaze iz različitih područja, uključujući:
+
 - GIS stručnjaci
 - Znanstvenici iz područja okoliša
 - Urbanisti
@@ -44,6 +46,7 @@ Naši članovi dolaze iz različitih područja, uključujući:
 ## Naša zajednica
 
 Dobrodošli su svi zainteresirani za QGIS, od potpunih početnika do iskusnih stručnjaka. Naša zajednica cijeni:
+
 - **Otvorenost:** Prihvaćamo načela otvorenog koda i otvorenu suradnju
 - **Uključivost:** Svi su dobrodošli bez obzira na podrijetlo ili razinu vještina
 - **Učenje:** Podržavamo kontinuirano učenje i razmjenu znanja
@@ -51,11 +54,13 @@ Dobrodošli su svi zainteresirani za QGIS, od potpunih početnika do iskusnih st
 
 ## Kontaktiraj nas
 
-- **Email:** [viperminiq@gmail.com](viperminiq@gmail.com)
+- **Email:** [info@qgis.hr](mailto:info@qgis.hr?subject=Upit%20sa%20mrezne%20stranice)
 - **Chat:** [Telegram](https://t.me/+2xnruyS-YdplODU0)
 
 ## Pripadnost
 
-Mi smo službena QGIS korisnička grupa priznata od strane [QGIS projekta](https://qgis.org). Saznaj više o QGIS korisničkim grupama [ovdje](https://qgis.org/community/groups/).
+Mi smo službena QGIS korisnička grupa priznata od strane [QGIS projekta](https://qgis.org).
+
+Saznaj više o QGIS korisničkim grupama [ovdje](https://qgis.org/community/groups/).
 
 {{< content-end >}}
