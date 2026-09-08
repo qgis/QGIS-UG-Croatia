@@ -66,19 +66,21 @@ Kako bismo svim članovima osigurali ugodno i produktivno okruženje, molimo sve
 ### Prijavljivanje problema
 
 Ako doživiš ili budeš svjedokom ponašanja koje krši ove smjernice:
+
 1. Obrati se bilo kojem članu odbora ili organizatoru
-2. Pošalji e-poštu na [viperminiq@gmail.com](viperminiq@gmail.com)
+2. Pošalji e-poštu na [info@qgis.hr](mailto:info@qgis.hr?subject=Prijava%20problema)
 3. Sve prijave bit će obrađene povjerljivo
 
 ### Posljedice
 
 Kršenja mogu rezultirati:
+
 - Upozorenjem i zahtjevom za promjenu ponašanja
 - Privremenom suspenzijom sudjelovanja na događajima
 - Trajnim isključenjem iz grupe
 
 ## Pitanja?
 
-Ako imaš pitanja o ovim pravilima, kontaktiraj nas na [viperminiq@gmail.com](viperminiq@gmail.com)
+Ako imaš pitanja o ovim pravilima, kontaktiraj nas na [info@qgis.hr](mailto:info@qgis.hr)
 
 {{< content-end >}}
