@@ -20,7 +20,7 @@ Bilo da si početnik ili iskusan korisnik QGIS-a, svi su dobrodošli. Pridruži 
 ### Pridruživanje
 
 - Članstvo je otvoreno svima koji su zainteresirani za QGIS
-- Zbog zakonske regulative, možemo primiti isključivo članove koji imaju važeći OIB u Republici Hrvatskoj
+- Zbog zakonske regulative, možemo primiti isključivo članove koji imaju [važeći OIB u Republici Hrvatskoj](https://porezna-uprava.gov.hr/hr/osobni-identifikacijski-broj-oib/4586)
 
 Podaci potrebni za učlanjenje su: ime i prezime (naziv tvrtke), OIB, adresa prebivališta (adresa sjedišta tvrtke), datum rođenja (datum osnivanja), kontakt e-mail adresa.
 
