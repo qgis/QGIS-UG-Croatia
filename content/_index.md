@@ -4,11 +4,11 @@ title: "QGIS zajednica u Hrvatskoj"
 subtitle: "Povezujemo korisnike QGIS-a u Hrvatskoj i šire"
 draft: false
 heroSize: "is-medium"
-heroLogo: "img/qgishr.png"
+heroLogo: "img/qgishr_logo.svg"
 HeroImage: "img/osijek-bg.webp"
 HasBanner: true
 sidebar: true
-ButtonText: "Pridruži nam se!" 
+ButtonText: "Pridruži nam se!"
 ButtonLink: "/pridruzi-se/"
 ---
 
@@ -27,7 +27,7 @@ Mi smo zajednica korisnika QGIS-a, strastvenih ljubitelja geoprostorne tehnologi
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1" >}} 
+{{< rich-content-start themeClass="coloring-1" >}}
 
 - Organiziramo redovita druženja i događaje
 - Dijelimo najbolje prakse i primjere korištenja
@@ -50,7 +50,7 @@ Mi smo zajednica korisnika QGIS-a, strastvenih ljubitelja geoprostorne tehnologi
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
-{{< rich-content-start themeClass="coloring-1" >}} 
+{{< rich-content-start themeClass="coloring-1" >}}
 
 Bilo da si početnik ili iskusan korisnik QGIS-a, svi su dobrodošli. Pridruži se našim događajima, sudjeluj u raspravama i pomozi u razvoju zajednice.
 
