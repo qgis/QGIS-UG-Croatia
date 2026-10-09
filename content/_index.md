@@ -22,8 +22,8 @@ Mi smo zajednica korisnika QGIS-a, strastvenih ljubitelja geoprostorne tehnologi
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
 ## Što radimo
-{{< column-end >}}
 
+{{< column-end >}}
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
 {{< rich-box-start >}}
@@ -41,11 +41,11 @@ Mi smo zajednica korisnika QGIS-a, strastvenih ljubitelja geoprostorne tehnologi
 {{< column-end >}}
 {{< columns-end >}}
 
-
 {{< columns-start class="mb-6">}}
 {{< column-start class="is-flex-direction-column is-one-third left-title">}}
 
 ## Pridruži nam se
+
 {{< column-end >}}
 
 {{< column-start class="is-flex-direction-column is-two-thirds">}}
