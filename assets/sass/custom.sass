@@ -195,3 +195,34 @@ html.has-navbar-fixed-top
 @media screen and (max-width: 1023px)
   .box
     padding: 1.25rem 1rem 1.25rem 0rem
+
+// Popis zapisnika skupštine
+.content ul.zapisnici-list
+  list-style: none
+  margin: 0
+  padding: 0
+
+  .zapisnici-item
+    display: flex
+    align-items: center
+    gap: 1rem
+    padding: 0.75rem 0
+    border-bottom: 1px solid rgba(0, 0, 0, 0.08)
+
+    &:last-child
+      border-bottom: none
+
+  .zapisnici-icon
+    font-size: 1.5rem
+
+  .zapisnici-text
+    display: flex
+    flex-direction: column
+    flex: 1
+
+  .zapisnici-naziv
+    font-weight: 600
+
+  .zapisnici-datum
+    font-size: 0.875rem
+    opacity: 0.75
