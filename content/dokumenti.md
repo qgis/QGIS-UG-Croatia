@@ -11,10 +11,10 @@ url: "/dokumenti/"
 
 # Dokumenti
 
-Ovdje možete preuzeti službene dokumente Udruge: statut i pravilnike koji uređuju njezin ustroj i djelovanje.
+Ovdje možete preuzeti službene dokumente Udruge.
 
 {{< columns-start >}}
-{{< column-start class="is-flex-direction-column is-one-third">}}
+{{< column-start class="is-flex-direction-column is-full">}}
 {{< rich-box-start icon="📜" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
@@ -27,8 +27,10 @@ Temeljni akt kojim se uređuju ustroj, ciljevi i djelovanje Udruge.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
+{{< columns-end >}}
 
-{{< column-start class="is-flex-direction-column is-one-third">}}
+{{< columns-start >}}
+{{< column-start class="is-flex-direction-column is-full">}}
 {{< rich-box-start icon="💳" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
@@ -41,8 +43,10 @@ Uređuje uvjete članstva te visinu i način plaćanja članarine.
 {{< rich-content-end >}}
 {{< rich-box-end >}}
 {{< column-end >}}
+{{< columns-end >}}
 
-{{< column-start class="is-flex-direction-column is-one-third">}}
+{{< columns-start >}}
+{{< column-start class="is-flex-direction-column is-full">}}
 {{< rich-box-start icon="📊" layoutClass="tips">}}
 {{< rich-content-start themeClass="coloring-1" >}}
 
@@ -51,6 +55,20 @@ Uređuje uvjete članstva te visinu i način plaćanja članarine.
 Uređuje postupak i kriterije financiranja projekata i radnih zadataka Udruge.
 
 <a class="button is-primary1" href="/documents/pravilnik-o-financiranju-projekata-i-radnih-zadataka-2026-05-21.pdf" download>Preuzmi Pravilnik</a>
+
+{{< rich-content-end >}}
+{{< rich-box-end >}}
+{{< column-end >}}
+{{< columns-end >}}
+
+## Zapisnici skupštine
+
+{{< columns-start >}}
+{{< column-start class="is-flex-direction-column is-full">}}
+{{< rich-box-start icon="🗂️" layoutClass="tips">}}
+{{< rich-content-start themeClass="coloring-1" >}}
+
+{{< zapisnici >}}
 
 {{< rich-content-end >}}
 {{< rich-box-end >}}

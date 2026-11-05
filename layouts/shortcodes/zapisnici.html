@@ -1,0 +1,17 @@
+{{ with .Site.Data.zapisnici_skupstine }}
+<ul class="zapisnici-list">
+    {{ range sort . "datum" "desc" }}
+    {{ $datum := time.AsTime .datum }}
+    <li class="zapisnici-item">
+        <span class="zapisnici-icon">📄</span>
+        <span class="zapisnici-text">
+            <span class="zapisnici-naziv">{{ .naziv }}</span>
+            <time class="zapisnici-datum" datetime="{{ $datum.Format "2006-01-02" }}">{{ $datum.Format "2. 1. 2006." }}</time>
+        </span>
+        <a class="button is-primary1 is-small" href="/documents/{{ .datoteka }}" download>Preuzmi</a>
+    </li>
+    {{ end }}
+</ul>
+{{ else }}
+<p>Nema dokumenata za prikaz.</p>
+{{ end }}
