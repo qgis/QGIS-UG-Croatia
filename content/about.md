@@ -23,11 +23,7 @@ U Republici Hrvatskoj smo registrirani kao neprofina udruga:
   - Redni broj organizacije: 0522210
   - Matični broj: 06283802
   - OIB: 85251060774
-- Podaci iz [Registra udruga RH](https://registri-npo-mpu.gov.hr/#!udruge):
-  - Naziv: QGIS ZAJEDNICA U HRVATSKOJ
-  - Skraćeni naziv: QGIS HR
-  - Sjedište: Trg Jurja Križanića 1, Osijek
-  - Registarski broj: 14005383
+- Registarski broj iz [Registra udruga RH](https://registri-npo-mpu.gov.hr/#!udruge): 14005383
 
 ## Naša misija
 
