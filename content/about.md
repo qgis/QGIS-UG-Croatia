@@ -14,13 +14,20 @@ aliases:
 # O nama
 
 Mi smo QGIS korisnička grupa, posvećena promicanju geoprostorne tehnologije otvorenog koda i podršci stručnjacima.
+
 U Republici Hrvatskoj smo registrirani kao neprofina udruga:
-- naziv: QGIS zajednica u Hrvatskoj
-- kratki naziv: QGIS HR
-- sjedište: Trg Jurja Križanića 1, Osijek
-- OIB: 85251060774
-- MB: 6283802
-- RNO: 522210
+- Podaci iz [Registra neprofitnih organizacija RH](https://banovac.mfin.hr/rnoprt/):
+  - Naziv neprofitne organizacije: QGIS zajednica u Hrvatskoj
+  - Skraćeni naziv neprofitne organizacije: QGIS HR
+  - Sjedište: Trg Jurja Križanića 1, Osijek
+  - Redni broj organizacije: 0522210
+  - Matični broj: 06283802
+  - OIB: 85251060774
+- Podaci iz [Registra udruga RH](https://registri-npo-mpu.gov.hr/#!udruge):
+  - Naziv: QGIS ZAJEDNICA U HRVATSKOJ
+  - Skraćeni naziv: QGIS HR
+  - Sjedište: Trg Jurja Križanića 1, Osijek
+  - Registarski broj: 14005383
 
 ## Naša misija
 
