@@ -173,6 +173,11 @@ sectionPagesMenu = 'main'
   url = "/dokumenti/"
   weight = 85
 
+[[menu.main]]
+  name = "Tutorijali"
+  url = "/tutorijali"
+  weight = 10
+
 # "Vanjske poveznice" replicates the qgis.org universal top nav (About/Resources/
 # Community/Download/Donate), which previously lived in a separate <qg-top-nav>
 # header widget. See layouts/partials/contextmenu.html for the mega-dropdown that
