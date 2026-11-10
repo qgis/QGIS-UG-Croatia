@@ -24,7 +24,7 @@ Bilo da si početnik ili iskusan korisnik QGIS-a, svi su dobrodošli. Pridruži 
 
 Podaci potrebni za učlanjenje su: ime i prezime (naziv tvrtke), OIB, adresa prebivališta (adresa sjedišta tvrtke), datum rođenja (datum osnivanja), kontakt e-mail adresa.
 
-Potrebno je ispuniti i poslati obrazac dostupan na [poveznici](https://forms.gle/UTpzWwqqbsGRF6Rp9).
+Potrebno je ispuniti i poslati obrazac dostupan na [poveznici](https://forms.gle/DtFLjavRa2JvojoJ7).
 
 Nakon popunjenog obrasca kontaktirati će Vas tajnik Udruge vezano za daljnji postupak. U slučaju poteškoća možete poslati email poruku na [info+uclanjenje@qgis.hr](mailto:info+uclanjenje@qgis.hr?subject=Upit%20u%20vezi%20uclanjenja).
 
